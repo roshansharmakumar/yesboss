@@ -4,7 +4,7 @@ int main()
 {
 	int n;
 	cin >> n;
-	cout<<"va of n is "<<n<<endl;
+	cout<<"va of n is ";
 	/* this change has beeen done */
 	
 }
